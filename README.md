@@ -40,4 +40,4 @@ Using my knowledge from machine learning and neural networks for this project I 
 
 * The random forest classifier can also be used for the same data as it has achieved a similar accuracy with less time than the neural network model. If we compare both model's predictive accuracy, their output is very similar. Both the random forest and deep learning models were able to predict correctly if applicants will be successful if funded by Alphabet Soup. Although their predictive performance was comparable, their implementation and training times were not. The random forest classifier was able to train on the large dataset and predict values in seconds, while the deep learning model required a couple minutes to train on the tens of thousands of data points. In other words, the random forest model is able to achieve comparable predictive accuracy on large tabular data with less code and faster performance.
 
-![Image4](https://github.com/Vaishali715/Neural_Network_Charity_Analysis/blob/main/Images/nn_4.png)
+![Image4](https://github.com/Vaishali715/Neural_Network_Charity_Analysis/blob/main/Images/nn_rf.png)
