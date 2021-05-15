@@ -21,7 +21,7 @@ Using my knowledge from machine learning and neural networks for this project I 
         * First and second layer have relu as the activation while third, fourth and output layers have sigmoid as activation layer.
         * Selecting all the above increased the accuracy to 72.85 %
     
-    ![Image3]()
+    ![Image3](https://github.com/Vaishali715/Neural_Network_Charity_Analysis/blob/main/Images/nn_3.png)
 
     * Were you able to achieve the target model performance?
         Although the target for the model to achieve was 75% or above, I was not able to reach the target.
@@ -30,9 +30,9 @@ Using my knowledge from machine learning and neural networks for this project I 
         * Some of the steps I took to try and make the model more accurate were adding hidden layers, changing the activation type, changing the number of epochs and changing the number of neurons in each layer.
     Below are the screenshots for the accuracy from initial model from deliverable 1 & 2 and accuracy for the optimized model.
 
-![Image1]()
+![Image1](https://github.com/Vaishali715/Neural_Network_Charity_Analysis/blob/main/Images/nn_1.png)
 
-![Image2]()
+![Image2](https://github.com/Vaishali715/Neural_Network_Charity_Analysis/blob/main/Images/nn_2.png)
 
 
 ## Summary:
@@ -40,4 +40,4 @@ Using my knowledge from machine learning and neural networks for this project I 
 
 * The random forest classifier can also be used for the same data as it has achieved a similar accuracy with less time than the neural network model. If we compare both model's predictive accuracy, their output is very similar. Both the random forest and deep learning models were able to predict correctly if applicants will be successful if funded by Alphabet Soup. Although their predictive performance was comparable, their implementation and training times were not. The random forest classifier was able to train on the large dataset and predict values in seconds, while the deep learning model required a couple minutes to train on the tens of thousands of data points. In other words, the random forest model is able to achieve comparable predictive accuracy on large tabular data with less code and faster performance.
 
-![Image4]()
+![Image4](https://github.com/Vaishali715/Neural_Network_Charity_Analysis/blob/main/Images/nn_4.png)
